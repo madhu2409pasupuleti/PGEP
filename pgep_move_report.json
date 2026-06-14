@@ -1,0 +1,260 @@
+{
+  "successful": [
+    {
+      "source": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/Class 1 - Python Installation.pdf",
+      "destination": "/Users/madhu/Desktop/PGEP/PGEP/04-Projects/Class 1 - Python Installation.pdf",
+      "category": "projects"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/requirements.txt",
+      "destination": "/Users/madhu/Desktop/PGEP/PGEP/04-Projects/requirements.txt",
+      "category": "projects"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/Class 1 - Bootcamp.ipynb",
+      "destination": "/Users/madhu/Desktop/PGEP/PGEP/04-Projects/Class 1 - Bootcamp.ipynb",
+      "category": "projects"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/README.md",
+      "destination": "/Users/madhu/Desktop/PGEP/PGEP/04-Projects/README.md",
+      "category": "projects"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/app.py",
+      "destination": "/Users/madhu/Desktop/PGEP/PGEP/04-Projects/app.py",
+      "category": "projects"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/database/__init__.py",
+      "destination": "/Users/madhu/Desktop/PGEP/PGEP/04-Projects/__init__.py",
+      "category": "projects"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/database/bank_db.xlsx",
+      "destination": "/Users/madhu/Desktop/PGEP/PGEP/04-Projects/bank_db.xlsx",
+      "category": "projects"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/database/excel_db.py",
+      "destination": "/Users/madhu/Desktop/PGEP/PGEP/04-Projects/excel_db.py",
+      "category": "projects"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/config/__init__.py",
+      "destination": "/Users/madhu/Desktop/PGEP/PGEP/04-Projects/__init__.py",
+      "category": "projects"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/config/settings.py",
+      "destination": "/Users/madhu/Desktop/PGEP/PGEP/04-Projects/settings.py",
+      "category": "projects"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/.streamlit/config.toml",
+      "destination": "/Users/madhu/Desktop/PGEP/PGEP/04-Projects/config.toml",
+      "category": "projects"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/.claude/settings.local.json",
+      "destination": "/Users/madhu/Desktop/PGEP/PGEP/04-Projects/settings.local.json",
+      "category": "projects"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/utils/auth.py",
+      "destination": "/Users/madhu/Desktop/PGEP/PGEP/04-Projects/auth.py",
+      "category": "projects"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/utils/pdf_generator.py",
+      "destination": "/Users/madhu/Desktop/PGEP/PGEP/04-Projects/pdf_generator.py",
+      "category": "projects"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/utils/__init__.py",
+      "destination": "/Users/madhu/Desktop/PGEP/PGEP/04-Projects/__init__.py",
+      "category": "projects"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/utils/styles.py",
+      "destination": "/Users/madhu/Desktop/PGEP/PGEP/04-Projects/styles.py",
+      "category": "projects"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/views/signup.py",
+      "destination": "/Users/madhu/Desktop/PGEP/PGEP/04-Projects/signup.py",
+      "category": "projects"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/views/withdraw.py",
+      "destination": "/Users/madhu/Desktop/PGEP/PGEP/04-Projects/withdraw.py",
+      "category": "projects"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/views/deposit.py",
+      "destination": "/Users/madhu/Desktop/PGEP/PGEP/04-Projects/deposit.py",
+      "category": "projects"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/views/statement.py",
+      "destination": "/Users/madhu/Desktop/PGEP/PGEP/04-Projects/statement.py",
+      "category": "projects"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/views/__init__.py",
+      "destination": "/Users/madhu/Desktop/PGEP/PGEP/04-Projects/__init__.py",
+      "category": "projects"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/views/dashboard.py",
+      "destination": "/Users/madhu/Desktop/PGEP/PGEP/04-Projects/dashboard.py",
+      "category": "projects"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/views/login.py",
+      "destination": "/Users/madhu/Desktop/PGEP/PGEP/04-Projects/login.py",
+      "category": "projects"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/C1M2/Pandas_Data_Frames/26 Filtering, broadcasting, and applying functions on a Pandas DataFrame.ipynb",
+      "destination": "/Users/madhu/Desktop/PGEP/PGEP/04-Projects/26 Filtering, broadcasting, and applying functions on a Pandas DataFrame.ipynb",
+      "category": "projects"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/Introduction to Python - Others.pdf",
+      "destination": "/Users/madhu/Desktop/PGEP/PGEP/01-Fundamentals/Introduction to Python - Others.pdf",
+      "category": "fundamentals"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/C1M2/Pandas_Data_Frames/20 Creating Pandas DataFrames and basic DataFrame attributes.ipynb",
+      "destination": "/Users/madhu/Desktop/PGEP/PGEP/01-Fundamentals/20 Creating Pandas DataFrames and basic DataFrame attributes.ipynb",
+      "category": "fundamentals"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/C1M1/NumPy_Files/01 Creating NumPy arrays and basic array attributes.ipynb",
+      "destination": "/Users/madhu/Desktop/PGEP/PGEP/01-Fundamentals/01 Creating NumPy arrays and basic array attributes.ipynb",
+      "category": "fundamentals"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/Python/New Compressed (zipped) Folder/M3S1_Demo08_(examples_of_using_multiple_return_values).ipynb",
+      "destination": "/Users/madhu/Desktop/PGEP/PGEP/05-Assignments/M3S1_Demo08_(examples_of_using_multiple_return_values).ipynb",
+      "category": "assignments"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/Python/New Compressed (zipped) Folder/M3S1_Demo03_(practical_examples_of_user_defined_functions).ipynb",
+      "destination": "/Users/madhu/Desktop/PGEP/PGEP/05-Assignments/M3S1_Demo03_(practical_examples_of_user_defined_functions).ipynb",
+      "category": "assignments"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/C1M2/Pandas_Data_Frames/30 Grouping and aggregating data example.ipynb",
+      "destination": "/Users/madhu/Desktop/PGEP/PGEP/05-Assignments/30 Grouping and aggregating data example.ipynb",
+      "category": "assignments"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/Data_Processing_Exercise_resources/customers.csv",
+      "destination": "/Users/madhu/Desktop/PGEP/PGEP/05-Assignments/customers.csv",
+      "category": "assignments"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/Data_Processing_Exercise_resources/.DS_Store",
+      "destination": "/Users/madhu/Desktop/PGEP/PGEP/05-Assignments/.DS_Store",
+      "category": "assignments"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/Data_Processing_Exercise_resources/d8377220-3d2c-4d45-8b5f-cd01b66009b2-product-lookup.csv",
+      "destination": "/Users/madhu/Desktop/PGEP/PGEP/05-Assignments/d8377220-3d2c-4d45-8b5f-cd01b66009b2-product-lookup.csv",
+      "category": "assignments"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/Data_Processing_Exercise_resources/861174a8-58fc-47e7-9112-fba855cd4dc8-transactions.csv",
+      "destination": "/Users/madhu/Desktop/PGEP/PGEP/05-Assignments/861174a8-58fc-47e7-9112-fba855cd4dc8-transactions.csv",
+      "category": "assignments"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/C1M1/NumPy_Files/10 Example of mathematical operations on NumPy arrays.ipynb",
+      "destination": "/Users/madhu/Desktop/PGEP/PGEP/05-Assignments/10 Example of mathematical operations on NumPy arrays.ipynb",
+      "category": "assignments"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/C1M2/Pandas_Data_Frames/Pandas Installation Guide.pdf",
+      "destination": "/Users/madhu/Desktop/PGEP/PGEP/06-Resources/Pandas Installation Guide.pdf",
+      "category": "resources"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/C1M2/APAGAI - C1M2 - Textbook/APAGAI - C1M2 - Textbook.pdf",
+      "destination": "/Users/madhu/Desktop/PGEP/PGEP/06-Resources/APAGAI - C1M2 - Textbook.pdf",
+      "category": "resources"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/c1m1 transcript/Session Overview - Transcripts.docx",
+      "destination": "/Users/madhu/Desktop/PGEP/PGEP/06-Resources/Session Overview - Transcripts.docx",
+      "category": "resources"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/C1M1/APAGAI - C1M1 - Textbook.pdf",
+      "destination": "/Users/madhu/Desktop/PGEP/PGEP/06-Resources/APAGAI - C1M1 - Textbook.pdf",
+      "category": "resources"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/C1M1/Python Data Science Libraries - Textbook/Python Data Science Libraries.pdf",
+      "destination": "/Users/madhu/Desktop/PGEP/PGEP/06-Resources/Python Data Science Libraries.pdf",
+      "category": "resources"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/C1M1/NumPy_Files/NumPy Installation Guide.pdf",
+      "destination": "/Users/madhu/Desktop/PGEP/PGEP/06-Resources/NumPy Installation Guide.pdf",
+      "category": "resources"
+    }
+  ],
+  "failed": [
+    {
+      "source": "/Users/madhu/Desktop/PGEP/PGEP/04-Projects/README.md",
+      "category": "projects",
+      "reason": "Copy failed"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/PGEP/01-Fundamentals/README.md",
+      "category": "fundamentals",
+      "reason": "Copy failed"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/PGEP/05-Assignments/README.md",
+      "category": "assignments",
+      "reason": "Copy failed"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/PGEP/06-Resources/README.md",
+      "category": "resources",
+      "reason": "Copy failed"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/PGEP/02-Intermediate/README.md",
+      "category": "intermediate",
+      "reason": "Copy failed"
+    },
+    {
+      "source": "/Users/madhu/Desktop/PGEP/PGEP/03-Advanced/README.md",
+      "category": "advanced",
+      "reason": "Copy failed"
+    }
+  ],
+  "skipped": [
+    "excel_db.cpython-311.pyc",
+    "__init__.cpython-311.pyc",
+    "settings.cpython-311.pyc",
+    "__init__.cpython-311.pyc",
+    "styles.cpython-311.pyc",
+    "pdf_generator.cpython-311.pyc",
+    "auth.cpython-311.pyc",
+    "__init__.cpython-311.pyc",
+    "signup.cpython-311.pyc",
+    "withdraw.cpython-311.pyc",
+    "login.cpython-311.pyc",
+    "dashboard.cpython-311.pyc",
+    "statement.cpython-311.pyc",
+    "deposit.cpython-311.pyc",
+    "__init__.cpython-311.pyc",
+    "applypatch-msg.sample",
+    "pre-applypatch.sample"
+  ]
+}
