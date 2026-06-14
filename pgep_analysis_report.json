@@ -1,0 +1,912 @@
+{
+  "source_directory": "/Users/madhu/Desktop/PGEP",
+  "target_directory": ".",
+  "categorized_files": {
+    "projects": [
+      {
+        "name": "Class 1 - Python Installation.pdf",
+        "path": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/Class 1 - Python Installation.pdf",
+        "type": "documents",
+        "category": "projects"
+      },
+      {
+        "name": "requirements.txt",
+        "path": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/requirements.txt",
+        "type": "documents",
+        "category": "projects"
+      },
+      {
+        "name": "Class 1 - Bootcamp.ipynb",
+        "path": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/Class 1 - Bootcamp.ipynb",
+        "type": "notebook",
+        "category": "projects"
+      },
+      {
+        "name": "README.md",
+        "path": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/README.md",
+        "type": "documents",
+        "category": "projects"
+      },
+      {
+        "name": "app.py",
+        "path": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/app.py",
+        "type": "code",
+        "category": "projects"
+      },
+      {
+        "name": "__init__.py",
+        "path": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/database/__init__.py",
+        "type": "code",
+        "category": "projects"
+      },
+      {
+        "name": "bank_db.xlsx",
+        "path": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/database/bank_db.xlsx",
+        "type": "documents",
+        "category": "projects"
+      },
+      {
+        "name": "excel_db.py",
+        "path": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/database/excel_db.py",
+        "type": "code",
+        "category": "projects"
+      },
+      {
+        "name": "excel_db.cpython-311.pyc",
+        "path": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/database/__pycache__/excel_db.cpython-311.pyc",
+        "type": "other",
+        "category": "projects"
+      },
+      {
+        "name": "__init__.cpython-311.pyc",
+        "path": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/database/__pycache__/__init__.cpython-311.pyc",
+        "type": "other",
+        "category": "projects"
+      },
+      {
+        "name": "__init__.py",
+        "path": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/config/__init__.py",
+        "type": "code",
+        "category": "projects"
+      },
+      {
+        "name": "settings.py",
+        "path": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/config/settings.py",
+        "type": "code",
+        "category": "projects"
+      },
+      {
+        "name": "settings.cpython-311.pyc",
+        "path": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/config/__pycache__/settings.cpython-311.pyc",
+        "type": "other",
+        "category": "projects"
+      },
+      {
+        "name": "__init__.cpython-311.pyc",
+        "path": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/config/__pycache__/__init__.cpython-311.pyc",
+        "type": "other",
+        "category": "projects"
+      },
+      {
+        "name": "config.toml",
+        "path": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/.streamlit/config.toml",
+        "type": "other",
+        "category": "projects"
+      },
+      {
+        "name": "settings.local.json",
+        "path": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/.claude/settings.local.json",
+        "type": "web",
+        "category": "projects"
+      },
+      {
+        "name": "auth.py",
+        "path": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/utils/auth.py",
+        "type": "code",
+        "category": "projects"
+      },
+      {
+        "name": "pdf_generator.py",
+        "path": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/utils/pdf_generator.py",
+        "type": "code",
+        "category": "projects"
+      },
+      {
+        "name": "__init__.py",
+        "path": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/utils/__init__.py",
+        "type": "code",
+        "category": "projects"
+      },
+      {
+        "name": "styles.py",
+        "path": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/utils/styles.py",
+        "type": "code",
+        "category": "projects"
+      },
+      {
+        "name": "styles.cpython-311.pyc",
+        "path": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/utils/__pycache__/styles.cpython-311.pyc",
+        "type": "other",
+        "category": "projects"
+      },
+      {
+        "name": "pdf_generator.cpython-311.pyc",
+        "path": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/utils/__pycache__/pdf_generator.cpython-311.pyc",
+        "type": "other",
+        "category": "projects"
+      },
+      {
+        "name": "auth.cpython-311.pyc",
+        "path": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/utils/__pycache__/auth.cpython-311.pyc",
+        "type": "other",
+        "category": "projects"
+      },
+      {
+        "name": "__init__.cpython-311.pyc",
+        "path": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/utils/__pycache__/__init__.cpython-311.pyc",
+        "type": "other",
+        "category": "projects"
+      },
+      {
+        "name": "signup.py",
+        "path": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/views/signup.py",
+        "type": "code",
+        "category": "projects"
+      },
+      {
+        "name": "withdraw.py",
+        "path": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/views/withdraw.py",
+        "type": "code",
+        "category": "projects"
+      },
+      {
+        "name": "deposit.py",
+        "path": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/views/deposit.py",
+        "type": "code",
+        "category": "projects"
+      },
+      {
+        "name": "statement.py",
+        "path": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/views/statement.py",
+        "type": "code",
+        "category": "projects"
+      },
+      {
+        "name": "__init__.py",
+        "path": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/views/__init__.py",
+        "type": "code",
+        "category": "projects"
+      },
+      {
+        "name": "dashboard.py",
+        "path": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/views/dashboard.py",
+        "type": "code",
+        "category": "projects"
+      },
+      {
+        "name": "login.py",
+        "path": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/views/login.py",
+        "type": "code",
+        "category": "projects"
+      },
+      {
+        "name": "signup.cpython-311.pyc",
+        "path": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/views/__pycache__/signup.cpython-311.pyc",
+        "type": "other",
+        "category": "projects"
+      },
+      {
+        "name": "withdraw.cpython-311.pyc",
+        "path": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/views/__pycache__/withdraw.cpython-311.pyc",
+        "type": "other",
+        "category": "projects"
+      },
+      {
+        "name": "login.cpython-311.pyc",
+        "path": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/views/__pycache__/login.cpython-311.pyc",
+        "type": "other",
+        "category": "projects"
+      },
+      {
+        "name": "dashboard.cpython-311.pyc",
+        "path": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/views/__pycache__/dashboard.cpython-311.pyc",
+        "type": "other",
+        "category": "projects"
+      },
+      {
+        "name": "statement.cpython-311.pyc",
+        "path": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/views/__pycache__/statement.cpython-311.pyc",
+        "type": "other",
+        "category": "projects"
+      },
+      {
+        "name": "deposit.cpython-311.pyc",
+        "path": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/views/__pycache__/deposit.cpython-311.pyc",
+        "type": "other",
+        "category": "projects"
+      },
+      {
+        "name": "__init__.cpython-311.pyc",
+        "path": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/views/__pycache__/__init__.cpython-311.pyc",
+        "type": "other",
+        "category": "projects"
+      },
+      {
+        "name": "26 Filtering, broadcasting, and applying functions on a Pandas DataFrame.ipynb",
+        "path": "/Users/madhu/Desktop/PGEP/C1M2/Pandas_Data_Frames/26 Filtering, broadcasting, and applying functions on a Pandas DataFrame.ipynb",
+        "type": "notebook",
+        "category": "projects"
+      },
+      {
+        "name": "README.md",
+        "path": "/Users/madhu/Desktop/PGEP/PGEP/04-Projects/README.md",
+        "type": "documents",
+        "category": "projects"
+      },
+      {
+        "name": "applypatch-msg.sample",
+        "path": "/Users/madhu/Desktop/PGEP/PGEP/.git/hooks/applypatch-msg.sample",
+        "type": "other",
+        "category": "projects"
+      },
+      {
+        "name": "pre-applypatch.sample",
+        "path": "/Users/madhu/Desktop/PGEP/PGEP/.git/hooks/pre-applypatch.sample",
+        "type": "other",
+        "category": "projects"
+      }
+    ],
+    "fundamentals": [
+      {
+        "name": "Introduction to Python - Others.pdf",
+        "path": "/Users/madhu/Desktop/PGEP/Python/BC-BankApp/Introduction to Python - Others.pdf",
+        "type": "documents",
+        "category": "fundamentals"
+      },
+      {
+        "name": "20 Creating Pandas DataFrames and basic DataFrame attributes.ipynb",
+        "path": "/Users/madhu/Desktop/PGEP/C1M2/Pandas_Data_Frames/20 Creating Pandas DataFrames and basic DataFrame attributes.ipynb",
+        "type": "notebook",
+        "category": "fundamentals"
+      },
+      {
+        "name": "README.md",
+        "path": "/Users/madhu/Desktop/PGEP/PGEP/01-Fundamentals/README.md",
+        "type": "documents",
+        "category": "fundamentals"
+      },
+      {
+        "name": "01 Creating NumPy arrays and basic array attributes.ipynb",
+        "path": "/Users/madhu/Desktop/PGEP/C1M1/NumPy_Files/01 Creating NumPy arrays and basic array attributes.ipynb",
+        "type": "notebook",
+        "category": "fundamentals"
+      }
+    ],
+    "assignments": [
+      {
+        "name": "M3S1_Demo08_(examples_of_using_multiple_return_values).ipynb",
+        "path": "/Users/madhu/Desktop/PGEP/Python/New Compressed (zipped) Folder/M3S1_Demo08_(examples_of_using_multiple_return_values).ipynb",
+        "type": "notebook",
+        "category": "assignments"
+      },
+      {
+        "name": "M3S1_Demo03_(practical_examples_of_user_defined_functions).ipynb",
+        "path": "/Users/madhu/Desktop/PGEP/Python/New Compressed (zipped) Folder/M3S1_Demo03_(practical_examples_of_user_defined_functions).ipynb",
+        "type": "notebook",
+        "category": "assignments"
+      },
+      {
+        "name": "30 Grouping and aggregating data example.ipynb",
+        "path": "/Users/madhu/Desktop/PGEP/C1M2/Pandas_Data_Frames/30 Grouping and aggregating data example.ipynb",
+        "type": "notebook",
+        "category": "assignments"
+      },
+      {
+        "name": "README.md",
+        "path": "/Users/madhu/Desktop/PGEP/PGEP/05-Assignments/README.md",
+        "type": "documents",
+        "category": "assignments"
+      },
+      {
+        "name": "customers.csv",
+        "path": "/Users/madhu/Desktop/PGEP/Data_Processing_Exercise_resources/customers.csv",
+        "type": "data",
+        "category": "assignments"
+      },
+      {
+        "name": ".DS_Store",
+        "path": "/Users/madhu/Desktop/PGEP/Data_Processing_Exercise_resources/.DS_Store",
+        "type": "other",
+        "category": "assignments"
+      },
+      {
+        "name": "d8377220-3d2c-4d45-8b5f-cd01b66009b2-product-lookup.csv",
+        "path": "/Users/madhu/Desktop/PGEP/Data_Processing_Exercise_resources/d8377220-3d2c-4d45-8b5f-cd01b66009b2-product-lookup.csv",
+        "type": "data",
+        "category": "assignments"
+      },
+      {
+        "name": "861174a8-58fc-47e7-9112-fba855cd4dc8-transactions.csv",
+        "path": "/Users/madhu/Desktop/PGEP/Data_Processing_Exercise_resources/861174a8-58fc-47e7-9112-fba855cd4dc8-transactions.csv",
+        "type": "data",
+        "category": "assignments"
+      },
+      {
+        "name": "10 Example of mathematical operations on NumPy arrays.ipynb",
+        "path": "/Users/madhu/Desktop/PGEP/C1M1/NumPy_Files/10 Example of mathematical operations on NumPy arrays.ipynb",
+        "type": "notebook",
+        "category": "assignments"
+      }
+    ],
+    "resources": [
+      {
+        "name": "Pandas Installation Guide.pdf",
+        "path": "/Users/madhu/Desktop/PGEP/C1M2/Pandas_Data_Frames/Pandas Installation Guide.pdf",
+        "type": "documents",
+        "category": "resources"
+      },
+      {
+        "name": "APAGAI - C1M2 - Textbook.pdf",
+        "path": "/Users/madhu/Desktop/PGEP/C1M2/APAGAI - C1M2 - Textbook/APAGAI - C1M2 - Textbook.pdf",
+        "type": "documents",
+        "category": "resources"
+      },
+      {
+        "name": "README.md",
+        "path": "/Users/madhu/Desktop/PGEP/PGEP/06-Resources/README.md",
+        "type": "documents",
+        "category": "resources"
+      },
+      {
+        "name": "Session Overview - Transcripts.docx",
+        "path": "/Users/madhu/Desktop/PGEP/c1m1 transcript/Session Overview - Transcripts.docx",
+        "type": "documents",
+        "category": "resources"
+      },
+      {
+        "name": "APAGAI - C1M1 - Textbook.pdf",
+        "path": "/Users/madhu/Desktop/PGEP/C1M1/APAGAI - C1M1 - Textbook.pdf",
+        "type": "documents",
+        "category": "resources"
+      },
+      {
+        "name": "Python Data Science Libraries.pdf",
+        "path": "/Users/madhu/Desktop/PGEP/C1M1/Python Data Science Libraries - Textbook/Python Data Science Libraries.pdf",
+        "type": "documents",
+        "category": "resources"
+      },
+      {
+        "name": "NumPy Installation Guide.pdf",
+        "path": "/Users/madhu/Desktop/PGEP/C1M1/NumPy_Files/NumPy Installation Guide.pdf",
+        "type": "documents",
+        "category": "resources"
+      }
+    ],
+    "intermediate": [
+      {
+        "name": "README.md",
+        "path": "/Users/madhu/Desktop/PGEP/PGEP/02-Intermediate/README.md",
+        "type": "documents",
+        "category": "intermediate"
+      }
+    ],
+    "advanced": [
+      {
+        "name": "README.md",
+        "path": "/Users/madhu/Desktop/PGEP/PGEP/03-Advanced/README.md",
+        "type": "documents",
+        "category": "advanced"
+      }
+    ]
+  },
+  "uncategorized_files": [
+    {
+      "name": ".DS_Store",
+      "path": "/Users/madhu/Desktop/PGEP/.DS_Store",
+      "type": "other",
+      "category": "uncategorized"
+    },
+    {
+      "name": ".DS_Store",
+      "path": "/Users/madhu/Desktop/PGEP/Python/.DS_Store",
+      "type": "other",
+      "category": "uncategorized"
+    },
+    {
+      "name": "APAGAI_BLS07_Python Data Structures - Tuples, Sets, Dictionaries.ipynb",
+      "path": "/Users/madhu/Desktop/PGEP/Python/APAGAI_BLS07_Python Data Structures - Tuples, Sets, Dictionaries.ipynb",
+      "type": "notebook",
+      "category": "uncategorized"
+    },
+    {
+      "name": "0d110a27-9ee4-4e7c-a387-3b79064744a7-M7S2-Demo02-permutation-using-itertools-.ipynb",
+      "path": "/Users/madhu/Desktop/PGEP/Python/0d110a27-9ee4-4e7c-a387-3b79064744a7-M7S2-Demo02-permutation-using-itertools-.ipynb",
+      "type": "notebook",
+      "category": "uncategorized"
+    },
+    {
+      "name": "Python Control Structures - Day 2 with Rajan.ipynb",
+      "path": "/Users/madhu/Desktop/PGEP/Python/Python Control Structures - Day 2 with Rajan.ipynb",
+      "type": "notebook",
+      "category": "uncategorized"
+    },
+    {
+      "name": "bf34ad9d-6765-443b-8382-cb1c48be81a8-M7S3-Demo01-permutation-with-repetition-.ipynb",
+      "path": "/Users/madhu/Desktop/PGEP/Python/bf34ad9d-6765-443b-8382-cb1c48be81a8-M7S3-Demo01-permutation-with-repetition-.ipynb",
+      "type": "notebook",
+      "category": "uncategorized"
+    },
+    {
+      "name": "Python Data Structures 3.ipynb",
+      "path": "/Users/madhu/Desktop/PGEP/Python/Python Data Structures 3.ipynb",
+      "type": "notebook",
+      "category": "uncategorized"
+    },
+    {
+      "name": "Functions.ipynb",
+      "path": "/Users/madhu/Desktop/PGEP/Python/Functions.ipynb",
+      "type": "notebook",
+      "category": "uncategorized"
+    },
+    {
+      "name": "practice-permutation-using-itertools-.ipynb",
+      "path": "/Users/madhu/Desktop/PGEP/Python/practice-permutation-using-itertools-.ipynb",
+      "type": "notebook",
+      "category": "uncategorized"
+    },
+    {
+      "name": "APAGAI_BLS08_Python Programming Practice - II.ipynb",
+      "path": "/Users/madhu/Desktop/PGEP/Python/APAGAI_BLS08_Python Programming Practice - II.ipynb",
+      "type": "notebook",
+      "category": "uncategorized"
+    },
+    {
+      "name": "M3S1_Demo07_(multiple_return_values).ipynb",
+      "path": "/Users/madhu/Desktop/PGEP/Python/New Compressed (zipped) Folder/M3S1_Demo07_(multiple_return_values).ipynb",
+      "type": "notebook",
+      "category": "uncategorized"
+    },
+    {
+      "name": "M3S1_Demo02_(parameters_and_arguments).ipynb",
+      "path": "/Users/madhu/Desktop/PGEP/Python/New Compressed (zipped) Folder/M3S1_Demo02_(parameters_and_arguments).ipynb",
+      "type": "notebook",
+      "category": "uncategorized"
+    },
+    {
+      "name": "M3S1_Demo11_(lambda_functions).ipynb",
+      "path": "/Users/madhu/Desktop/PGEP/Python/New Compressed (zipped) Folder/M3S1_Demo11_(lambda_functions).ipynb",
+      "type": "notebook",
+      "category": "uncategorized"
+    },
+    {
+      "name": "M3S1_Demo05(nested_functions).ipynb",
+      "path": "/Users/madhu/Desktop/PGEP/Python/New Compressed (zipped) Folder/M3S1_Demo05(nested_functions).ipynb",
+      "type": "notebook",
+      "category": "uncategorized"
+    },
+    {
+      "name": "M3S1_Demo01_(user_defined_functions).ipynb",
+      "path": "/Users/madhu/Desktop/PGEP/Python/New Compressed (zipped) Folder/M3S1_Demo01_(user_defined_functions).ipynb",
+      "type": "notebook",
+      "category": "uncategorized"
+    },
+    {
+      "name": "M3S1_Demo04_(more_on_function_scope).ipynb",
+      "path": "/Users/madhu/Desktop/PGEP/Python/New Compressed (zipped) Folder/M3S1_Demo04_(more_on_function_scope).ipynb",
+      "type": "notebook",
+      "category": "uncategorized"
+    },
+    {
+      "name": "M3S1_Demo06_(recursion).ipynb",
+      "path": "/Users/madhu/Desktop/PGEP/Python/New Compressed (zipped) Folder/M3S1_Demo06_(recursion).ipynb",
+      "type": "notebook",
+      "category": "uncategorized"
+    },
+    {
+      "name": "M3S1_Demo10_(finding_function_source_code).ipynb",
+      "path": "/Users/madhu/Desktop/PGEP/Python/New Compressed (zipped) Folder/M3S1_Demo10_(finding_function_source_code).ipynb",
+      "type": "notebook",
+      "category": "uncategorized"
+    },
+    {
+      "name": "M3S1_Demo09_(importing_libraries).ipynb",
+      "path": "/Users/madhu/Desktop/PGEP/Python/New Compressed (zipped) Folder/M3S1_Demo09_(importing_libraries).ipynb",
+      "type": "notebook",
+      "category": "uncategorized"
+    },
+    {
+      "name": "M3S1_Demo12_(higher_order_functions).ipynb",
+      "path": "/Users/madhu/Desktop/PGEP/Python/New Compressed (zipped) Folder/M3S1_Demo12_(higher_order_functions).ipynb",
+      "type": "notebook",
+      "category": "uncategorized"
+    },
+    {
+      "name": "APAGAI_BLS08_Python Programming Practice - II-checkpoint.ipynb",
+      "path": "/Users/madhu/Desktop/PGEP/Python/.ipynb_checkpoints/APAGAI_BLS08_Python Programming Practice - II-checkpoint.ipynb",
+      "type": "notebook",
+      "category": "uncategorized"
+    },
+    {
+      "name": "0d110a27-9ee4-4e7c-a387-3b79064744a7-M7S2-Demo02-permutation-using-itertools--checkpoint.ipynb",
+      "path": "/Users/madhu/Desktop/PGEP/Python/.ipynb_checkpoints/0d110a27-9ee4-4e7c-a387-3b79064744a7-M7S2-Demo02-permutation-using-itertools--checkpoint.ipynb",
+      "type": "notebook",
+      "category": "uncategorized"
+    },
+    {
+      "name": ".DS_Store",
+      "path": "/Users/madhu/Desktop/PGEP/C1M2/.DS_Store",
+      "type": "other",
+      "category": "uncategorized"
+    },
+    {
+      "name": "swiggy.csv",
+      "path": "/Users/madhu/Desktop/PGEP/C1M2/Pandas_Data_Frames/swiggy.csv",
+      "type": "data",
+      "category": "uncategorized"
+    },
+    {
+      "name": "29 Grouping and aggregating Pandas DataFrames.ipynb",
+      "path": "/Users/madhu/Desktop/PGEP/C1M2/Pandas_Data_Frames/29 Grouping and aggregating Pandas DataFrames.ipynb",
+      "type": "notebook",
+      "category": "uncategorized"
+    },
+    {
+      "name": "GOOGL_prices.csv",
+      "path": "/Users/madhu/Desktop/PGEP/C1M2/Pandas_Data_Frames/GOOGL_prices.csv",
+      "type": "data",
+      "category": "uncategorized"
+    },
+    {
+      "name": "21 Importing data in Pandas and descriptive methods.ipynb",
+      "path": "/Users/madhu/Desktop/PGEP/C1M2/Pandas_Data_Frames/21 Importing data in Pandas and descriptive methods.ipynb",
+      "type": "notebook",
+      "category": "uncategorized"
+    },
+    {
+      "name": "24 Querying Pandas DataFrames.ipynb",
+      "path": "/Users/madhu/Desktop/PGEP/C1M2/Pandas_Data_Frames/24 Querying Pandas DataFrames.ipynb",
+      "type": "notebook",
+      "category": "uncategorized"
+    },
+    {
+      "name": "matches_data.csv",
+      "path": "/Users/madhu/Desktop/PGEP/C1M2/Pandas_Data_Frames/matches_data.csv",
+      "type": "data",
+      "category": "uncategorized"
+    },
+    {
+      "name": "23 Indexing and slicing Pandas DataFrames.ipynb",
+      "path": "/Users/madhu/Desktop/PGEP/C1M2/Pandas_Data_Frames/23 Indexing and slicing Pandas DataFrames.ipynb",
+      "type": "notebook",
+      "category": "uncategorized"
+    },
+    {
+      "name": "IBM_stocks_data.xlsx",
+      "path": "/Users/madhu/Desktop/PGEP/C1M2/Pandas_Data_Frames/IBM_stocks_data.xlsx",
+      "type": "documents",
+      "category": "uncategorized"
+    },
+    {
+      "name": "27 Merging Pandas DataFrames.ipynb",
+      "path": "/Users/madhu/Desktop/PGEP/C1M2/Pandas_Data_Frames/27 Merging Pandas DataFrames.ipynb",
+      "type": "notebook",
+      "category": "uncategorized"
+    },
+    {
+      "name": "22 Loading data into Google Colab.ipynb",
+      "path": "/Users/madhu/Desktop/PGEP/C1M2/Pandas_Data_Frames/22 Loading data into Google Colab.ipynb",
+      "type": "notebook",
+      "category": "uncategorized"
+    },
+    {
+      "name": "internet_data.json",
+      "path": "/Users/madhu/Desktop/PGEP/C1M2/Pandas_Data_Frames/internet_data.json",
+      "type": "web",
+      "category": "uncategorized"
+    },
+    {
+      "name": "25 Operations on Pandas DataFrames.ipynb",
+      "path": "/Users/madhu/Desktop/PGEP/C1M2/Pandas_Data_Frames/25 Operations on Pandas DataFrames.ipynb",
+      "type": "notebook",
+      "category": "uncategorized"
+    },
+    {
+      "name": "GOOGL_volume.csv",
+      "path": "/Users/madhu/Desktop/PGEP/C1M2/Pandas_Data_Frames/GOOGL_volume.csv",
+      "type": "data",
+      "category": "uncategorized"
+    },
+    {
+      "name": "indian_startups.csv",
+      "path": "/Users/madhu/Desktop/PGEP/C1M2/Pandas_Data_Frames/indian_startups.csv",
+      "type": "data",
+      "category": "uncategorized"
+    },
+    {
+      "name": "cars_dataset.csv",
+      "path": "/Users/madhu/Desktop/PGEP/C1M2/Pandas_Data_Frames/cars_dataset.csv",
+      "type": "data",
+      "category": "uncategorized"
+    },
+    {
+      "name": "india_census_2011.csv",
+      "path": "/Users/madhu/Desktop/PGEP/C1M2/Pandas_Data_Frames/india_census_2011.csv",
+      "type": "data",
+      "category": "uncategorized"
+    },
+    {
+      "name": "shark_tank_india_pitches.csv",
+      "path": "/Users/madhu/Desktop/PGEP/C1M2/Pandas_Data_Frames/shark_tank_india_pitches.csv",
+      "type": "data",
+      "category": "uncategorized"
+    },
+    {
+      "name": "shark_tank_india_sharks.csv",
+      "path": "/Users/madhu/Desktop/PGEP/C1M2/Pandas_Data_Frames/shark_tank_india_sharks.csv",
+      "type": "data",
+      "category": "uncategorized"
+    },
+    {
+      "name": "28 Merging and broadcasting in Pandas DataFrames.ipynb",
+      "path": "/Users/madhu/Desktop/PGEP/C1M2/Pandas_Data_Frames/28 Merging and broadcasting in Pandas DataFrames.ipynb",
+      "type": "notebook",
+      "category": "uncategorized"
+    },
+    {
+      "name": "organize_pgep.py",
+      "path": "/Users/madhu/Desktop/PGEP/PGEP/organize_pgep.py",
+      "type": "code",
+      "category": "uncategorized"
+    },
+    {
+      "name": "README.md",
+      "path": "/Users/madhu/Desktop/PGEP/PGEP/README.md",
+      "type": "documents",
+      "category": "uncategorized"
+    },
+    {
+      "name": "config",
+      "path": "/Users/madhu/Desktop/PGEP/PGEP/.git/config",
+      "type": "other",
+      "category": "uncategorized"
+    },
+    {
+      "name": "HEAD",
+      "path": "/Users/madhu/Desktop/PGEP/PGEP/.git/HEAD",
+      "type": "other",
+      "category": "uncategorized"
+    },
+    {
+      "name": "description",
+      "path": "/Users/madhu/Desktop/PGEP/PGEP/.git/description",
+      "type": "other",
+      "category": "uncategorized"
+    },
+    {
+      "name": "index",
+      "path": "/Users/madhu/Desktop/PGEP/PGEP/.git/index",
+      "type": "other",
+      "category": "uncategorized"
+    },
+    {
+      "name": "packed-refs",
+      "path": "/Users/madhu/Desktop/PGEP/PGEP/.git/packed-refs",
+      "type": "other",
+      "category": "uncategorized"
+    },
+    {
+      "name": "pack-47387ab24f6367d9848ef6db846dd9fa1fa31b30.idx",
+      "path": "/Users/madhu/Desktop/PGEP/PGEP/.git/objects/pack/pack-47387ab24f6367d9848ef6db846dd9fa1fa31b30.idx",
+      "type": "other",
+      "category": "uncategorized"
+    },
+    {
+      "name": "pack-47387ab24f6367d9848ef6db846dd9fa1fa31b30.pack",
+      "path": "/Users/madhu/Desktop/PGEP/PGEP/.git/objects/pack/pack-47387ab24f6367d9848ef6db846dd9fa1fa31b30.pack",
+      "type": "other",
+      "category": "uncategorized"
+    },
+    {
+      "name": "exclude",
+      "path": "/Users/madhu/Desktop/PGEP/PGEP/.git/info/exclude",
+      "type": "other",
+      "category": "uncategorized"
+    },
+    {
+      "name": "HEAD",
+      "path": "/Users/madhu/Desktop/PGEP/PGEP/.git/logs/HEAD",
+      "type": "other",
+      "category": "uncategorized"
+    },
+    {
+      "name": "main",
+      "path": "/Users/madhu/Desktop/PGEP/PGEP/.git/logs/refs/heads/main",
+      "type": "other",
+      "category": "uncategorized"
+    },
+    {
+      "name": "HEAD",
+      "path": "/Users/madhu/Desktop/PGEP/PGEP/.git/logs/refs/remotes/origin/HEAD",
+      "type": "other",
+      "category": "uncategorized"
+    },
+    {
+      "name": "commit-msg.sample",
+      "path": "/Users/madhu/Desktop/PGEP/PGEP/.git/hooks/commit-msg.sample",
+      "type": "other",
+      "category": "uncategorized"
+    },
+    {
+      "name": "pre-rebase.sample",
+      "path": "/Users/madhu/Desktop/PGEP/PGEP/.git/hooks/pre-rebase.sample",
+      "type": "other",
+      "category": "uncategorized"
+    },
+    {
+      "name": "sendemail-validate.sample",
+      "path": "/Users/madhu/Desktop/PGEP/PGEP/.git/hooks/sendemail-validate.sample",
+      "type": "other",
+      "category": "uncategorized"
+    },
+    {
+      "name": "pre-commit.sample",
+      "path": "/Users/madhu/Desktop/PGEP/PGEP/.git/hooks/pre-commit.sample",
+      "type": "other",
+      "category": "uncategorized"
+    },
+    {
+      "name": "fsmonitor-watchman.sample",
+      "path": "/Users/madhu/Desktop/PGEP/PGEP/.git/hooks/fsmonitor-watchman.sample",
+      "type": "other",
+      "category": "uncategorized"
+    },
+    {
+      "name": "pre-receive.sample",
+      "path": "/Users/madhu/Desktop/PGEP/PGEP/.git/hooks/pre-receive.sample",
+      "type": "other",
+      "category": "uncategorized"
+    },
+    {
+      "name": "prepare-commit-msg.sample",
+      "path": "/Users/madhu/Desktop/PGEP/PGEP/.git/hooks/prepare-commit-msg.sample",
+      "type": "other",
+      "category": "uncategorized"
+    },
+    {
+      "name": "post-update.sample",
+      "path": "/Users/madhu/Desktop/PGEP/PGEP/.git/hooks/post-update.sample",
+      "type": "other",
+      "category": "uncategorized"
+    },
+    {
+      "name": "pre-merge-commit.sample",
+      "path": "/Users/madhu/Desktop/PGEP/PGEP/.git/hooks/pre-merge-commit.sample",
+      "type": "other",
+      "category": "uncategorized"
+    },
+    {
+      "name": "pre-push.sample",
+      "path": "/Users/madhu/Desktop/PGEP/PGEP/.git/hooks/pre-push.sample",
+      "type": "other",
+      "category": "uncategorized"
+    },
+    {
+      "name": "update.sample",
+      "path": "/Users/madhu/Desktop/PGEP/PGEP/.git/hooks/update.sample",
+      "type": "other",
+      "category": "uncategorized"
+    },
+    {
+      "name": "push-to-checkout.sample",
+      "path": "/Users/madhu/Desktop/PGEP/PGEP/.git/hooks/push-to-checkout.sample",
+      "type": "other",
+      "category": "uncategorized"
+    },
+    {
+      "name": "main",
+      "path": "/Users/madhu/Desktop/PGEP/PGEP/.git/refs/heads/main",
+      "type": "other",
+      "category": "uncategorized"
+    },
+    {
+      "name": "HEAD",
+      "path": "/Users/madhu/Desktop/PGEP/PGEP/.git/refs/remotes/origin/HEAD",
+      "type": "other",
+      "category": "uncategorized"
+    },
+    {
+      "name": "nba.csv",
+      "path": "/Users/madhu/Desktop/PGEP/C1M1/nba.csv",
+      "type": "data",
+      "category": "uncategorized"
+    },
+    {
+      "name": ".DS_Store",
+      "path": "/Users/madhu/Desktop/PGEP/C1M1/.DS_Store",
+      "type": "other",
+      "category": "uncategorized"
+    },
+    {
+      "name": "pokemon.csv",
+      "path": "/Users/madhu/Desktop/PGEP/C1M1/pokemon.csv",
+      "type": "data",
+      "category": "uncategorized"
+    },
+    {
+      "name": "google colab sheets.rtf",
+      "path": "/Users/madhu/Desktop/PGEP/C1M1/google colab sheets.rtf",
+      "type": "other",
+      "category": "uncategorized"
+    },
+    {
+      "name": "02 Indexing and slicing NumPy arrays.ipynb",
+      "path": "/Users/madhu/Desktop/PGEP/C1M1/NumPy_Files/02 Indexing and slicing NumPy arrays.ipynb",
+      "type": "notebook",
+      "category": "uncategorized"
+    },
+    {
+      "name": "11 Image manipulations.ipynb",
+      "path": "/Users/madhu/Desktop/PGEP/C1M1/NumPy_Files/11 Image manipulations.ipynb",
+      "type": "notebook",
+      "category": "uncategorized"
+    },
+    {
+      "name": "03 More on indexing and slicing.ipynb",
+      "path": "/Users/madhu/Desktop/PGEP/C1M1/NumPy_Files/03 More on indexing and slicing.ipynb",
+      "type": "notebook",
+      "category": "uncategorized"
+    },
+    {
+      "name": "08 Broadcasting in NumPy.ipynb",
+      "path": "/Users/madhu/Desktop/PGEP/C1M1/NumPy_Files/08 Broadcasting in NumPy.ipynb",
+      "type": "notebook",
+      "category": "uncategorized"
+    },
+    {
+      "name": "05 Reshaping NumPy arrays.ipynb",
+      "path": "/Users/madhu/Desktop/PGEP/C1M1/NumPy_Files/05 Reshaping NumPy arrays.ipynb",
+      "type": "notebook",
+      "category": "uncategorized"
+    },
+    {
+      "name": "06 Reshaping behaviour.ipynb",
+      "path": "/Users/madhu/Desktop/PGEP/C1M1/NumPy_Files/06 Reshaping behaviour.ipynb",
+      "type": "notebook",
+      "category": "uncategorized"
+    },
+    {
+      "name": "07 Reshaping problem.ipynb",
+      "path": "/Users/madhu/Desktop/PGEP/C1M1/NumPy_Files/07 Reshaping problem.ipynb",
+      "type": "notebook",
+      "category": "uncategorized"
+    },
+    {
+      "name": "04 NumPy array manipulations.ipynb",
+      "path": "/Users/madhu/Desktop/PGEP/C1M1/NumPy_Files/04 NumPy array manipulations.ipynb",
+      "type": "notebook",
+      "category": "uncategorized"
+    },
+    {
+      "name": "tractor_img.jpg",
+      "path": "/Users/madhu/Desktop/PGEP/C1M1/NumPy_Files/tractor_img.jpg",
+      "type": "images",
+      "category": "uncategorized"
+    },
+    {
+      "name": "09 Mathematical operations on NumPy arrays.ipynb",
+      "path": "/Users/madhu/Desktop/PGEP/C1M1/NumPy_Files/09 Mathematical operations on NumPy arrays.ipynb",
+      "type": "notebook",
+      "category": "uncategorized"
+    }
+  ],
+  "summary": {
+    "fundamentals": 4,
+    "intermediate": 1,
+    "advanced": 1,
+    "projects": 42,
+    "assignments": 9,
+    "resources": 7,
+    "uncategorized": 83,
+    "total": 147
+  }
+}
